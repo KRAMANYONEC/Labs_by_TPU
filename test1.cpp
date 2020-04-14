@@ -1,7 +1,8 @@
 #include <iostream>
 
 int main () {
-    // Some comment
+    
+    std::cout << '\n' <<"Hello,world!";
     
     return 0;
 }

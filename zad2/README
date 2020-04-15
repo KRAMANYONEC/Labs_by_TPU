@@ -1,0 +1,4 @@
+- There are some useful scetches in this directory.
+- main, test, bitfap - gives a picture of bitwise operations.
+- Also, local makefile produces function of separation .o files 
+from .cpp files

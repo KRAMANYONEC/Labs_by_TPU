@@ -1,3 +1,5 @@
+#include <iostream>
+
 struct Students {
     std::string name;
     std::string place;

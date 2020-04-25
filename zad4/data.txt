@@ -1,0 +1,6 @@
+MNOGOZNAAL Comy republic 3 4 5
+Krasavin Chita 5 5 3
+Katya poselok Svyetliy 5 5 5
+Boka town Omsk 3 3 3
+Joka town Omsk 3 2 2
+Ricardo town Verhniy Flex 5 5 5

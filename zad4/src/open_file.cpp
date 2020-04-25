@@ -1,11 +1,11 @@
 #include <iostream>
 #include <fstream>
 
-void open_file ( std::string * filename
+void open_file ( std::string & filename
                , std::ifstream & ifs) {
-   ifs.open( *filename );
+   ifs.open( filename );
    if ( !ifs ) {
        std::cout << "Cannot open file " 
-                 << *filename << '\n';
+                 << filename << '\n';
    }
 } 
